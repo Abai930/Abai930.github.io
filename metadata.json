@@ -1,0 +1,6 @@
+{
+  "name": "大忙人行程手帳",
+  "description": "「大忙人」是一個兼具情感連結與視覺美感的一體化生活管理系統。支援語音/手寫高效記錄、生成個人風格的手帳風手機桌面，並結合趣味養寵機制與社交分享，將被動的行程管理升華為主動的生活儀式感。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
